@@ -1,0 +1,11 @@
+node_modules
+letsencrypt/*
+.env
+logs/
+.idea/
+yarn.lock
+desktop.ini
+/docker/mongodb/data/*
+/docker/nginx/logs/*
+/docker/nginx/dist-front/*
+/docker/nginx/htdocs/*
